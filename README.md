@@ -44,7 +44,7 @@ https://www.bing.com/images/search?view=detailV2&ccid=WfC8HfTS&id=4BC715F6E9B08D
 ![image](https://user-images.githubusercontent.com/89658050/156783082-b0fae9ff-19c0-4e2c-b9b4-6c26af537d57.png)
 
 # Specs/PlatForms Supported
-**NOTE: *PYTHON IS REQUIRED TO RUN THIS!* ** 
+**NOTE: *PYTHON IS REQUIRED TO RUN THIS!
 
 **OS:** WINDOWS ONLY (any build of windows 7 and above should work)
 
