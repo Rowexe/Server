@@ -25,8 +25,7 @@ Even though this program creates a seperate ip address for your computer, it mig
 # Images/Videos
 
 ![image](https://user-images.githubusercontent.com/89658050/156782247-63af98ae-1b75-4fb6-b9bd-083d4df9c028.png)
-![image](https://user-images.githubusercontent.com/89658050/156782423-fe956ebd-0cf0-4703-be56-681de819b097.png)
-![image](https://user-images.githubusercontent.com/89658050/156782454-f4f1da6a-76f1-4a79-976b-6748b1b12876.png)
+
 
 **If someone enteres your website:**
 
