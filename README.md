@@ -50,5 +50,7 @@ https://www.bing.com/images/search?view=detailV2&ccid=WfC8HfTS&id=4BC715F6E9B08D
 **Specs:** 
 
 **CPU:** Atleast a i3
+
 **RAM**: Atleast 2 gigs DDR3
+
 **NETWORK:** Faster internet = faster the website loads, slower internet = slower loads
